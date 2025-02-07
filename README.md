@@ -11,20 +11,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas"/>
 </div>
-
-### 🚀 Estatísticas de Linguagens
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=CaRent&theme=radical" alt="Estatísticas Python"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=javascript-mini-game/blob/main/Quinto%20desafio/index.html&theme=radical" alt="Estatísticas HTML"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=javascript-mini-game&theme=radical" alt="Estatísticas JavaScript"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=campo_minado&theme=radical" alt="Estatísticas C"/>
-</div>
-
-### 🚀 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-
-
 📌 *Essas estatísticas são baseadas no código público do meu perfil do GitHub!* 🚀
