@@ -4,10 +4,7 @@
 - 📫 Busco ser um profissional competente no uso de tecnologias relacionadas tanto ao BackEnd como FrontEnd, direcionando-se principalmente para Segurança Cibernética!
 
 ## 🌟 Minhas Estatísticas do Github
-
-### 🌟 Minhas Estatísticas do Github
-
-#### 📊 Linguagens mais usadas
+### 📊 Linguagens mais usadas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas"/>
 </div>
