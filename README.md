@@ -14,11 +14,10 @@
 
 ### 🚀 Estatísticas de Linguagens
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=repo-do-python&theme=radical" alt="Estatísticas Python"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=repo-do-html&theme=radical" alt="Estatísticas HTML"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=repo-do-css&theme=radical" alt="Estatísticas CSS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=repo-do-javascript&theme=radical" alt="Estatísticas JavaScript"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=repo-do-c&theme=radical" alt="Estatísticas C"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=CaRent&theme=radical" alt="Estatísticas Python"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=javascript-mini-game/blob/main/Quinto%20desafio/index.html&theme=radical" alt="Estatísticas HTML"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=javascript-mini-game&theme=radical" alt="Estatísticas JavaScript"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StJ0hn&repo=campo_minado&theme=radical" alt="Estatísticas C"/>
 </div>
 
 ### 🚀 Minhas Estatísticas
