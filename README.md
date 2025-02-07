@@ -5,7 +5,7 @@
 
 ## 🌟 Minhas Estatísticas do Github
 
-### 📊 Linguagens mais usadas
+### 📊 Estatísticas de uso de linguagem
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas"/>
 </div>
@@ -26,13 +26,18 @@
     <td>8.36%</td>
   </tr>
 </table>
+### 💻 Linguagens Usadas
+<div align="center">
+  ![Python](https://img.shields.io/badge/Python-%3E%3D%2026.7%25-blue)
+  ![HTML](https://img.shields.io/badge/HTML-%3E%3D%2031.1%25-red)
+  ![CSS](https://img.shields.io/badge/CSS-%3E%3D%2018.4%25-yellow)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%3E%3D%2015.3%25-lightblue)
+  ![C](https://img.shields.io/badge/C-%3E%3D%208.4%25-darkgreen)
+</div>
 
 ### 🚀 Minhas Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas"/>
 </div>
 
 
