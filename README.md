@@ -42,5 +42,5 @@
 
 <div align="center">
   <h3>🏆 Troféus do GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-bg=true&no-frame=true&column=3" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=StJ0hn&theme=tokyonight&no-bg=true&no-frame=true&column=3" alt="GitHub Trophies">
 </div>
