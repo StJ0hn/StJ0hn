@@ -31,5 +31,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas"/>
+</div>
+
 
 📌 *Essas estatísticas são baseadas no código público do meu perfil do GitHub!* 🚀
