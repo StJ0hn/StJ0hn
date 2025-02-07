@@ -37,7 +37,7 @@
 
 <div align="center">
   <h3>🚀 Minhas Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 <div align="center">
