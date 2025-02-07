@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>📊 Linguagens mais usadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=5&theme=tokyonight" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=tokyonight" alt="Linguagens mais usadas">
 </div>
 
 <div align="center">
