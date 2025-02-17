@@ -8,4 +8,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical&cache_seconds=86400" alt="Linguagens mais usadas"/>
 </div>
-
+### ⏳ Tempo de Codificação (via WakaTime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=StJ0hn&theme=radical" alt="WakaTime Stats"/>
