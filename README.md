@@ -10,5 +10,5 @@
 </div>
 ### ⏳ Tempo de Codificação (via WakaTime)
 
-[![WakaTime](https://wakatime.com/badge/user/StJ0hn.svg)](https://wakatime.com/StJ0hn)
+[![WakaTime](https://wakatime.com/badge/user/John.svg)](https://wakatime.com/John)
 
