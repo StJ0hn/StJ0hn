@@ -6,6 +6,6 @@
 ## 🌟 Minhas Estatísticas do Github
 ### 📊 Linguagens mais usadas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=15&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&langs_count=5&theme=radical&cache_seconds=86400" alt="Linguagens mais usadas"/>
 </div>
 
