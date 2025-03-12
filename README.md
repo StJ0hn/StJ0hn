@@ -1,9 +1,8 @@
 # Olá, eu sou o John! 👋
 
 Bem-vindo ao meu perfil no GitHub! Eu sou apaixonado por **Segurança Cibernética**, **Redes** e **BackEnd**, e estou sempre em busca de novos desafios e aprendizado. 🚀
-
+###
 ---
-
 ## 🧠 Sobre Mim
 
 - 👀 **Interesses**: Atualmente, estou me aprofundando em **Segurança Cibernética**, **Redes** e **Desenvolvimento Web**.
@@ -26,7 +25,13 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 ## 📊 Estatísticas do GitHub
 
 ### Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&theme=github_dark&langs_count=6)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
