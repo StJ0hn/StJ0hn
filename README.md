@@ -25,10 +25,10 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&theme=radical&cache_seconds=86400" alt="Linguagens mais usadas"/>
-</div>
+### Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&theme=github_dark&langs_count=6)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ---
 
 ## 📫 Como me encontrar
@@ -36,6 +36,7 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 - GitHub: [@StJ0hn](https://github.com/StJ0hn)
 - LinkedIn: www.linkedin.com/in/john-fernandesdev
 - E-mail: jonhmiguel138@gmail.com
+- Instagram: https://www.instagram.com/john_miguel7/
 
 ---
 
