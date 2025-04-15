@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Eu sou apaixonado por **Segurança Cibernéti
 ## 🧠 Sobre Mim
 
 - 👀 **Interesses**: Atualmente, estou me aprofundando em **Segurança Cibernética**, **Redes** e **Desenvolvimento Web**.
-- 🌱 **Aprendizado atual**: Estou aprendendo sobre tecnologias essenciais para o **Desenvolvimento Web**, como **HTML**, **CSS** e **JavaScript**.
+- 🌱 **Aprendizado atual**: Estou aprendendo uma nova linguagem que é o Java e iniciando os aprendizados em SpringBoot.
 - 💼 **Objetivo profissional**: Quero me tornar um profissional altamente capacitado em **Tecnologias de BackEnd** e em soluções voltadas para **Segurança Cibernética**.
 
 ---
@@ -45,6 +45,8 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ---
@@ -70,5 +72,3 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 - 🎮 Adoro jogos e platinar conquistas!
 - 📚 Estudo de forma autodidata, sempre em busca de aprender novas habilidades.
 - 🏋️‍♂️ Faço academia 5 vezes por semana e adoro desafios!
-
----
