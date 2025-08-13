@@ -54,7 +54,7 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 
 - GitHub: [@StJ0hn](https://github.com/StJ0hn)
 - LinkedIn: www.linkedin.com/in/john-fernandesdev
-- E-mail: jonhmiguel138@gmail.com
+- E-mail: johnmigueldev@gmail.com
 - Instagram: https://www.instagram.com/john_miguel7/
 
 ---
