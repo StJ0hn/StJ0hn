@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Eu sou apaixonado por **Segurança Cibernéti
 
 - 👀 **Interesses**: Atualmente, estou me aprofundando em **Segurança Cibernética**, **Redes** e **Desenvolvimento Web**.
 - 🌱 **Aprendizado atual**: Estou aprendendo uma nova linguagem que é o Java e iniciando os aprendizados em SpringBoot.
-- 💼 **Objetivo profissional**: Quero me tornar um profissional altamente capacitado em **Tecnologias de BackEnd** e em soluções voltadas para **Segurança Cibernética**.
+- 💼 **Objetivo profissional**: Quero me tornar um profissional altamente capacitado em **Tecnologias de BackEnd e FrontEnd** e em soluções voltadas para **DevSecOps**.
 
 ---
 
