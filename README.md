@@ -17,7 +17,6 @@ Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 
 - **BackEnd**: Python, C, Java
 - **FrontEnd**: HTML, CSS, JavaScript
-- **Segurança Cibernética**: Redes, PenTest, Ferramentas de segurança
 - **Outros**: Git, Linux
 
 ---
