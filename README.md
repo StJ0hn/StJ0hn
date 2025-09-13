@@ -39,6 +39,8 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="30" alt="n8n logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -73,6 +75,6 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 ## 🌍 Fatos Interessantes sobre Mim
 
 - 🎮 Gamer que adora platinar jogos.
-- Jogador iniciante de xadrez.
+- ♟️ Jogador iniciante de xadrez.
 - 📚 Autodidata, sempre explorando novas tecnologias.  
 - 🏋️‍♂️ Treino 5 vezes por semana e gosto de superar limites!  
