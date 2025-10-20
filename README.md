@@ -11,8 +11,7 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 
 - 👀 **Interesses**: Automação de processos, integração de sistemas, orquestração de workflows e boas práticas DevOps/DevSecOps.  
 - 🌱 **Aprendizado atual**:  
-  - **Python** (scripts, automações e APIs)  
-  - **n8n** (workflows e integrações)  
+  - **Python** (scripts, automações e APIs)    
   - **Java + Spring Boot** (secundário, backend)  
   - **HTML, CSS e JavaScript** (apoio em frontend)  
 - 💼 **Objetivo profissional**: Consolidar carreira em automação e desenvolvimento, com foco futuro em **DevSecOps**.  
@@ -38,8 +37,6 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="30" alt="n8n logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
