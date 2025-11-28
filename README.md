@@ -1,8 +1,8 @@
 # Olá, eu sou o John! 👋
 
 Bem-vindo ao meu perfil no GitHub!  
-Atualmente foco meus estudos e projetos em **Automações com Python** e **Workflows no n8n**.  
-Também mantenho interesse em **BackEnd com Java** (em segundo plano) e **FrontEnd** (como apoio terciário).  
+Atualmente foco meus estudos e projetos em **BackEnd com Java**.  
+Também mantenho interesse em **Cloud e Segurança de aplicações** (em segundo plano) e **FrontEnd** (como apoio terciário).  
 No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimento e segurança. 🚀
 
 ---
@@ -10,9 +10,9 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 ## 🧠 Sobre Mim
 
 - 👀 **Interesses**: Automação de processos, integração de sistemas, orquestração de workflows e boas práticas DevOps/DevSecOps.  
-- 🌱 **Aprendizado atual**:  
-  - **Python** (scripts, automações e APIs)    
-  - **Java + Spring Boot** (secundário, backend)  
+- 🌱 **Aprendizado atual**:     
+  - **Java + Spring FrameWork**
+  - **Cloud e Segurança**
   - **HTML, CSS e JavaScript** (apoio em frontend)  
 - 💼 **Objetivo profissional**: Consolidar carreira em automação e desenvolvimento, com foco futuro em **DevSecOps**.  
 
@@ -20,9 +20,9 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **Automação & Backend**: Python, n8n, Java (Spring Boot), C  
+- **Backend**: Java (Spring Boot)
 - **Frontend (apoio)**: HTML, CSS, JavaScript  
-- **Outros**: Git, Linux, APIs  
+- **Outros**: Git, Linux, APIs, Cloud 
 
 ---
 
