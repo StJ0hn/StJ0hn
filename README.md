@@ -3,7 +3,7 @@
 # Olá, eu sou o John! 👋
 ### Engenharia de Software · UFC · Backend & Cloud
 
-*Construindo base sólida, um commit por vez.*
+*"A perfeição não é atingida quando não há mais nada a adicionar, mas quando não há mais nada a remover." — Antoine de Saint-Exupéry*
 
 ---
 
@@ -11,8 +11,6 @@
 
 Estudante de Engenharia de Software na Universidade Federal do Ceará.
 Foco atual em desenvolvimento Backend com Java — com caminho traçado para Cloud e Segurança de Aplicações.
-
-Acredito que código bom é código entendido, não apenas código que funciona.
 
 ---
 
