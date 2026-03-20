@@ -1,28 +1,28 @@
 # Olá, eu sou o John! 👋
 
 Bem-vindo ao meu perfil no GitHub!  
-Atualmente foco meus estudos e projetos em **BackEnd com Java**.  
-Também mantenho interesse em **Cloud e Segurança de aplicações** (em segundo plano) e **FrontEnd** (como apoio terciário).  
-No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimento e segurança. 🚀
+Atualmente foco meus estudos e projetos em **BackEnd**.  
+Também mantenho interesse em **Cloud e Segurança de aplicações** e **FrontEnd**.  
+No longo prazo, meu objetivo é evoluir para **Segurança de Aplicações e Respostas à Incidentes**, unindo desenvolvimento e segurança. 🚀
 
 ---
 
 ## 🧠 Sobre Mim
 
-- 👀 **Interesses**: Automação de processos, integração de sistemas, orquestração de workflows e boas práticas DevOps/DevSecOps.  
+- 👀 **Interesses**: Java, Python, C e JavaScript  
 - 🌱 **Aprendizado atual**:     
-  - **Java + Spring FrameWork**
+  - **Java**
   - **Cloud e Segurança**
-  - **HTML, CSS e JavaScript** (apoio em frontend)  
-- 💼 **Objetivo profissional**: Consolidar carreira em automação e desenvolvimento, com foco futuro em **DevSecOps**.  
+  - **HTML, CSS e JavaScript**   
+- 💼 **Objetivo profissional**: Consolidar carreira FullStack e Desenvolvimento Web, e utilizando da experiência obtida para direcionar-me para **Segurança de Aplicações e Respostas à Incidentes**.  
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **Backend**: Java (Spring Boot)
-- **Frontend (apoio)**: HTML, CSS, JavaScript  
-- **Outros**: Git, Linux, APIs, Cloud 
+- **Backend**: Java, Python, C
+- **Frontend**: HTML, CSS, JavaScript  
+- **Outros**: Git, Linux, APIs
 
 ---
 
@@ -72,6 +72,5 @@ No longo prazo, meu objetivo é evoluir para **DevSecOps**, unindo desenvolvimen
 ## 🌍 Fatos Interessantes sobre Mim
 
 - 🎮 Gamer que adora platinar jogos.
-- ♟️ Jogador iniciante de xadrez.
-- 📚 Autodidata, sempre explorando novas tecnologias.  
+- 📚 Sempre explorando novas tecnologias.  
 - 🏋️‍♂️ Treino 5 vezes por semana e gosto de superar limites!  
