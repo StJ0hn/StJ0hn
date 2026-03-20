@@ -1,76 +1,75 @@
+<div align="center">
+
 # Olá, eu sou o John! 👋
+### Engenharia de Software · UFC · Backend & Cloud
 
-Bem-vindo ao meu perfil no GitHub!  
-Atualmente foco meus estudos e projetos em **BackEnd**.  
-Também mantenho interesse em **Cloud e Segurança de aplicações** e **FrontEnd**.  
-No longo prazo, meu objetivo é evoluir para **Segurança de Aplicações e Respostas à Incidentes**, unindo desenvolvimento e segurança. 🚀
+*Construindo base sólida, um commit por vez.*
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre mim
 
-- 👀 **Interesses**: Java, Python, C e JavaScript  
-- 🌱 **Aprendizado atual**:     
-  - **Java**
-  - **Cloud e Segurança**
-  - **HTML, CSS e JavaScript**   
-- 💼 **Objetivo profissional**: Consolidar carreira FullStack e Desenvolvimento Web, e utilizando da experiência obtida para direcionar-me para **Segurança de Aplicações e Respostas à Incidentes**.  
+Estudante de Engenharia de Software na Universidade Federal do Ceará.
+Foco atual em desenvolvimento Backend com Java — com caminho traçado para Cloud e Segurança de Aplicações.
+
+Acredito que código bom é código entendido, não apenas código que funciona.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🎯 Trilha
 
-- **Backend**: Java, Python, C
-- **Frontend**: HTML, CSS, JavaScript  
-- **Outros**: Git, Linux, APIs
+**FrontEnd funcional + BackEnd sólido → Cloud → Segurança de Aplicações e Resposta a Incidentes**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias
 
-### Linguagens mais usadas
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+**Uso no dia a dia**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Aprendendo**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=stj0hn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stj0hn&theme=tokyonight&hide_border=true" height="150" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stj0hn&theme=tokyo-night&hide_border=true" alt="activity graph" />
+
+---
+
+## 🏅 Certificações
+
+![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 🌱 Fora do código
+
+🎮 Gamer — platinar jogos é um objetivo como qualquer outro  
+🏋️ Treino 5x por semana — disciplina que carrego para os estudos  
+📚 Sempre com algo novo para aprender
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-fernandesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmigueldev@gmail.com)
+
 </div>
-
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
----
-
-## 📫 Como me encontrar
-
-- GitHub: [@StJ0hn](https://github.com/StJ0hn)  
-- LinkedIn: [john-fernandesdev](https://www.linkedin.com/in/john-fernandesdev)  
-- E-mail: johnmigueldev@gmail.com  
-- Instagram: [@john_miguel7](https://www.instagram.com/john_miguel7/)  
-
----
-
-## 🔄 Contribuições e Projetos
-
-- ✨ Aberto a colaborações em projetos de automação e desenvolvimento.  
-- 🧑‍💻 Confira meus repositórios e sinta-se à vontade para contribuir!  
-
----
-
-## 🌍 Fatos Interessantes sobre Mim
-
-- 🎮 Gamer que adora platinar jogos.
-- 📚 Sempre explorando novas tecnologias.  
-- 🏋️‍♂️ Treino 5 vezes por semana e gosto de superar limites!  
