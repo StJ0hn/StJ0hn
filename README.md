@@ -42,10 +42,10 @@ Foco atual em desenvolvimento Backend com Java — com caminho traçado para Clo
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=stj0hn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=stj0hn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="400" alt="languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stj0hn&theme=tokyonight&hide_border=true" height="150" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stj0hn&theme=tokyonight&hide_border=true" height="400" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stj0hn&theme=tokyo-night&hide_border=true" alt="activity graph" />
 
