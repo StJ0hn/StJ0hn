@@ -10,7 +10,7 @@
 ## Sobre mim
 
 Estudante de Engenharia de Software na Universidade Federal do Ceará.
-Foco atual em desenvolvimento Backend com Java — com caminho traçado para Cloud e Segurança de Aplicações.
+Foco atual em desenvolvimento FullStack — com caminho traçado para Cloud e Segurança de Aplicações.
 
 ---
 
@@ -59,9 +59,9 @@ Foco atual em desenvolvimento Backend com Java — com caminho traçado para Clo
 
 ## 🌱 Fora do código
 
-🎮 Gamer — platinar jogos é um objetivo como qualquer outro  
-🏋️ Treino 5x por semana — disciplina que carrego para os estudos  
-📚 Sempre com algo novo para aprender
+🎮 Platinar jogos difíceis é um objetivo como qualquer outro!
+🏋️ Treino 5x por semana — disciplina que carrego para os estudos ! 
+📚 Sempre com algo novo para aprender!
 
 ---
 
