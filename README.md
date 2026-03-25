@@ -1,73 +1,34 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4451C&height=120&section=header"/>
 
-# Olá, eu sou o John! 👋
-### Engenharia de Software · UFC · Backend & Cloud
 
-*"A perfeição não é atingida quando não há mais nada a adicionar, mas quando não há mais nada a remover." — Antoine de Saint-Exupéry*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C4451C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+John+Miguel+Fernandes;Eu+Curso+Engenharia+de+Software;Na+Universidade+Federal+do+Ceará;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
----
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&count_private=true&hide_border=true&title_color=C4451C&icon_color=C4451C&text_color=C4451C&bg_color=010101" alt="John Miguel Fernandes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&hide_border=true&title_color=C4451C&text_color=C4451C&bg_color=010101" />
+</div>
 
-## Sobre mim
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StJ0hn&bg_color=010101&color=C4451C&line=2A2B2F&point=606266&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Estudante de Engenharia de Software na Universidade Federal do Ceará.
-Foco atual em desenvolvimento FullStack — com caminho traçado para Cloud e Segurança de Aplicações.
 
----
-
-## 🎯 Trilha
-
-**FrontEnd funcional + BackEnd sólido → Cloud → Segurança de Aplicações e Resposta a Incidentes**
-
----
-
-## 🛠️ Tecnologias
-
-**Uso no dia a dia**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">  
+<a href="https://www.instagram.com/john_.miguel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Aprendendo**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+### Studying in this moment:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
-## 📊 Estatísticas
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4451C&height=120&section=footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stj0hn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stj0hn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="400" alt="languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stj0hn&theme=tokyonight&hide_border=true" height="400" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stj0hn&theme=tokyo-night&hide_border=true" alt="activity graph" />
-
----
-
-## 🏅 Certificações
-
-![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## 🌱 Fora do código
-
-🎮 Platinar jogos difíceis é um objetivo como qualquer outro!
-🏋️ Treino 5x por semana — disciplina que carrego para os estudos ! 
-📚 Sempre com algo novo para aprender!
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-fernandesdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmigueldev@gmail.com)
-
-</div>
