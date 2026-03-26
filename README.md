@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4451C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A1&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C4451C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+John+Miguel+Fernandes;Eu+Curso+Engenharia+de+Software;Na+Universidade+Federal+do+Ceará;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A1A1A1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+John+Miguel+Fernandes;Eu+Curso+Engenharia+de+Software;Na+Universidade+Federal+do+Ceará;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&count_private=true&hide_border=true&title_color=C4451C&icon_color=C4451C&text_color=C4451C&bg_color=010101" alt="John Miguel Fernandes github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&hide_border=true&title_color=C4451C&text_color=C4451C&bg_color=010101" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StJ0hn&show_icons=true&count_private=true&hide_border=true&title_color=A1A1A1&icon_color=A1A1A1&text_color=A1A1A1&bg_color=010101" alt="John Miguel Fernandes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&hide_border=true&title_color=A1A1A1&text_color=A1A1A1&bg_color=010101" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StJ0hn&bg_color=010101&color=C4451C&line=2A2B2F&point=606266&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StJ0hn&bg_color=010101a&color=A1A1A1&line=2A2B2F&point=606266&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -30,5 +30,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4451C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A1&height=120&section=footer"/>
 
