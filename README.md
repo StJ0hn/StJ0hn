@@ -1,8 +1,24 @@
-<div align="right">
-  <img src="undefined - Imgur.gif" width="100%"/>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A1&height=120&section=header"/>
+<table width="100%" style="border:1px solid #A1A1A1;">
+<tr>
 
+<td width="50%" align="center" style="border-right:1px solid #A1A1A1; padding:20px;">
+
+<i>"A perfeição não é atingida quando não há mais nada a adicionar,
+mas quando não há mais nada a remover."</i><br>
+— Antoine de Saint-Exupéry
+
+</td>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<img src="undefined - Imgur.gif" width="90%"/>
+
+</td>
+
+</tr>
+</table>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A1A1A1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+John+Miguel+Fernandes;Eu+Curso+Engenharia+de+Software;Na+Universidade+Federal+do+Ceará;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
