@@ -23,8 +23,7 @@ mas quando não há mais nada a remover."</i><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A1A1A1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+John+Miguel+Fernandes;Eu+Curso+Engenharia+de+Software;Na+Universidade+Federal+do+Ceará;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=StJ0hn&theme=dark&hide_border=true&background=010101&stroke=A1A1A1&ring=A1A1A1&fire=E25822&currStreakLabel=A1A1A1"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StJ0hn&layout=compact&hide_border=true&title_color=A1A1A1&text_color=A1A1A1&bg_color=010101" />
+  <img width="75%" height="195px" src="https://streak-stats.demolab.com?user=StJ0hn&theme=dark&hide_border=true&background=010101&stroke=A1A1A1&ring=A1A1A1&fire=E25822&currStreakLabel=A1A1A1"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StJ0hn&bg_color=010101a&color=A1A1A1&line=2A2B2F&point=606266&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
